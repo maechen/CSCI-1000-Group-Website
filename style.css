@@ -1,0 +1,19 @@
+/* styling body */
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+/* styling navbar */
+.navbar li{
+  display: inline-block;
+}
+
+.navbar{
+  diplay: flex;
+  flex-wrap: nowrap;
+}
+
+.navbar li a{
+  margin: 8em;
+}
