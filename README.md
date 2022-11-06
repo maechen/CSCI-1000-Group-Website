@@ -1,4 +1,4 @@
-# CSCI1000GroupProject
+# CSCI1000 Group Project
 Creating an "About Me" web page that displays fun information about ourselves. 
 
 index.html is the code for the home page.
