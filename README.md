@@ -8,3 +8,5 @@ mae.html is the code for Mae's About Me section.
 elizabeth.html is the code for Elizabeth's About Me section.
 
 vanessa.html is the code for Vanessa's About Me section.
+
+style.css is the code for styling our web pages.
