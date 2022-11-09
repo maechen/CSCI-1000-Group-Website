@@ -12,5 +12,4 @@ vanessa.html is the code for Vanessa's About Me section.
 
 style.css is the code for styling our web pages.
 
-# Website Link
-https://maechen.github.io/CSCI1000GroupProject/
+
