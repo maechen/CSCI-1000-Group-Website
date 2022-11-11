@@ -20,8 +20,8 @@ html, body {
 
 /* styling mae's page */
 .mae-main-pic{
-  width: 400 px;
-  height: 400 px;
+  width: 100 px;
+  height: 100 px;
   overflow: hidden;
   background-size: cover;
   border-radius: 50%;
