@@ -10,7 +10,7 @@ html, body {
 }
 
 .navbar{
-  diplay: flex;
+  display: flex;
   flex-wrap: nowrap;
 }
 
@@ -19,14 +19,99 @@ html, body {
 }
 
 /* styling mae's page */
-.mae-main-pic{
-  width: 100 px;
-  height: 100 px;
-  overflow: hidden;
-  background-size: cover;
-  border-radius: 50%;
+.mae-body{
+  background-color: #F9EAC2;
 }
-.mae-main-pic img{
-  width: 100%;
+
+.mae-header{
+  background-color: #ffffffff;
+  height: 100px;
+  margin-top: -1.5%;
+  margin-left: -1%;
+  padding: 0px;
+}
+
+.mae-header-txt{
+  margin-left: 2%;
+  padding-top: 2%;
+}
+
+.mae-navbar li{
+  display: inline-block;
+}
+
+.mae-navbar{
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: #ffffffff;
+  margin-left: -1%;
+  border-top: 2px solid #7D3F20;
+  border-bottom: 2px solid #7D3F20;
+}
+
+.mae-navbar li a{
+  margin: 8em;
+}
+
+.image-crop-big{
+  width: 500px;
+  height: 500px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-top: -33%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-crop1{
+  width: 400px;
+  height: 400px;
+  overflow: hidden;
+  border-radius: 50%;
+  display: block;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+.image-crop2{
+  width: 400px;
+  height: 400px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin-top: -27%;
+  display: block;
+  margin-left: 63%;
+}
+
+.mae-main-pic{
+  width: 120%;
   height: auto;
+  margin-left: -9%;
+  margin-top: -15%;
+}
+
+.mae2{
+  width: 120%;
+  height: auto;
+  margin-left: -1%;
+  margin-top: -45%;
+}
+
+.mae3{
+  width: 160%;
+  height: auto;
+  margin-left: -30%;
+  margin-top: -50%;
+}
+
+.mae-txt{
+  padding: 5%;
+  text-align: center;
+  font-size: 20px;
+}
+
+.mae-about{
+  margin-left: 2%;
+  margin-top: 2%;
 }
