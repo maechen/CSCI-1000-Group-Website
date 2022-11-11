@@ -17,3 +17,16 @@ html, body {
 .navbar li a{
   margin: 8em;
 }
+
+/* styling mae's page */
+.mae-main-pic{
+  width: 400 px;
+  height: 400 px;
+  overflow: hidden;
+  background-size: cover;
+  border-radius: 50%;
+}
+.mae-main-pic img{
+  width: 100%;
+  height: auto;
+}
