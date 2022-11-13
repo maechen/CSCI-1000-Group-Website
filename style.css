@@ -115,3 +115,89 @@ html, body {
   margin-left: 2%;
   margin-top: 2%;
 }
+
+/* styling liz page */ 
+
+.liz-body{
+  background-color: #D1E2C4;
+}
+
+.liz-header{
+  position: absolute;
+  margin-left: 28em;
+  margin-top: 3em;
+}
+.liz1{
+  width: 18%;
+  height: auto;
+  position: absolute;
+}
+.liz2{
+  width: 15%;
+  height: auto;
+  position: absolute;
+  margin-top: 21em;
+}
+.liz3{
+  width: 20%;
+  height: auto;
+  position: absolute;
+  margin-top: 50em;
+}
+.liz4{
+  width: 20%;
+  height: auto;
+  position: absolute;
+  margin-left: 70em;
+  margin-top: 25em;
+}
+.liz5{
+  width: 20%;
+  height: auto;
+  position: absolute;
+  margin-left: 70em;
+  margin-top: 50em;
+}
+.liz6{
+  width: 20%;
+  height: auto;
+  position: absolute;
+  margin-left: 70em;
+}
+
+.liz-p1{
+  position: absolute;
+  margin-left: 15em;
+  margin-top: 10em;
+  font-size: 20px;
+}
+.liz-p2{
+  position: absolute;
+  margin-left: 15em;
+  margin-top: 15em;
+  font-size: 20px;
+}
+.liz-p3{
+  position: absolute;
+  margin-left: 45em;
+  margin-top: 50em;
+  font-size: 20px;
+}
+.liz-p4{
+  position: absolute;
+  margin-left: 43em;
+  margin-top: 33em;
+  font-size: 20px;
+}
+.liz-p5{
+  position: absolute;
+  margin-left: 12em;
+  margin-top: 30em;
+  font-size: 20px;
+}
+.liz-p6{
+  position: absolute;
+  margin-left: 15em;
+  margin-top: 47em;
+  font-size: 20px;
+}
