@@ -201,3 +201,29 @@ html, body {
   margin-top: 47em;
   font-size: 20px;
 }
+
+
+/* styling vanessa's page */ 
+.nes-pic{
+  width: 20%;
+  height: auto;
+  margin-left: 18em;
+}
+
+.nes2-pic{
+  width: 20%;
+}
+
+.nes3-pic{
+  width: 20%;
+}
+
+.nes-txt{
+  text-align: center;
+  color: #5E503F;
+  font-size: 20px;
+}
+
+.ness-body{
+  background-color: #F2F4F3;
+}
